@@ -55,7 +55,6 @@ SELECT name FROM world
  WHERE continent = 'South America'
    AND population > 40000000
 */
-
 Brazil
 Colombia
 
