@@ -1,6 +1,5 @@
 /* SQLZOO:BBC Quiz */
 
-
 /*
 1. Select the code which gives the name of countries beginning with U
 */
