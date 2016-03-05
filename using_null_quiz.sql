@@ -1,6 +1,5 @@
 /* SQLZOO: Using Null Quiz */
 
-
 /*
 Test your understanding of the NULL value
 
